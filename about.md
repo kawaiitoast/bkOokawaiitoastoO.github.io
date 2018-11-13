@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-<h1 style="text-align: center;">Alondra Soto</h1>
-
 <h3><span style="text-decoration: underline;">Objective </span></h3>
 <p style="text-align: justify;">After High school, I want to continue my studies so I can get my Bachler degree in criminology or criminal justice. Once I get my Bachler degree, I will apply to be a police officer where I will get experience for me to become an FBI SWAT team member. Once I get the experience, I&rsquo;ll have a higher chance to be an FBI SWAT team member.</p>
 <h3><span style="text-decoration: underline;">Skills</span></h3>
