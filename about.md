@@ -15,10 +15,10 @@ permalink: /about/
 <p><em>ASSOCIATE DEGREE &bull; YEAR 2020 &bull; EL CENTRO COLLEGE</em> Once I graduate I will obtain my associate degree in web design. In the classes I have completed in 2016 fall and 2017 fall and spring semester, I was graded as an A and two B</p>
 <h3><span style="text-decoration: underline;">Involment in school</span></h3>
 <p>In my high school I&rsquo;m involved in the FDR Schools swimming team, soon to return to the softball team. I have no experience in the swimming team but, I want intrigued in the swimming team. In my freshman year, I was in the J.V team in softball. Now that this year started, I&rsquo;m eager to come back to soft ball and this time be in the varsity team</p>
-### <span style="text-decoration: underline;"> More Information </span>
+<h3><<span style="text-decoration: underline;"> More Information </span></h3>
 
 I like to play video games such as Killer Instinct ( i think im pretty good at it)
 
-### <span style="text-decoration: underline;"> Contact me </span>
+<h3><span style="text-decoration: underline;">Contact me</span></h3> 
 
 [selian.soto.123@gmail.com](mailto:selian.soto.123@gmail.com)
